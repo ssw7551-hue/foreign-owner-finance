@@ -1,0 +1,246 @@
+table,row,col,value,unit,source
+registration,1994~1999년,가맹유지,24,개,표 1 p.2
+registration,1994~1999년,가맹해지,2,개,표 1 p.2
+registration,2000~2009년,가맹유지,134,개,표 1 p.2
+registration,2000~2009년,가맹해지,18,개,표 1 p.2
+registration,2010~2019년,가맹유지,2154,개,표 1 p.2
+registration,2010~2019년,가맹해지,401,개,표 1 p.2
+registration,2020~2024년,가맹유지,5723,개,표 1 p.2
+registration,2020~2024년,가맹해지,1867,개,표 1 p.2
+nationality,중국,가맹점 수,7482,개,표 2 p.3
+nationality,대만,가맹점 수,315,개,표 2 p.3
+nationality,우즈베키스탄,가맹점 수,249,개,표 2 p.3
+nationality,기타 아시아,가맹점 수,777,개,표 2 p.3
+nationality,미국,가맹점 수,637,개,표 2 p.3
+nationality,캐나다,가맹점 수,387,개,표 2 p.3
+nationality,기타 북미,가맹점 수,27,개,표 2 p.3
+nationality,유럽,가맹점 수,286,개,표 2 p.3
+nationality,남미,가맹점 수,9,개,표 2 p.3
+nationality,아프리카,가맹점 수,28,개,표 2 p.3
+nationality,오세아니아,가맹점 수,126,개,표 2 p.3
+nationality_registration,중국,1994~1999년,10,개,표 3 p.4
+nationality_registration,중국,2000~2009년,47,개,표 3 p.4
+nationality_registration,중국,2010~2019년,1719,개,표 3 p.4
+nationality_registration,중국,2020~2024년,5706,개,표 3 p.4
+nationality_registration,중국,평균 영업기간,43.8,개월,표 3 p.4
+nationality_registration,대만,1994~1999년,11,개,표 3 p.4
+nationality_registration,대만,2000~2009년,47,개,표 3 p.4
+nationality_registration,대만,2010~2019년,123,개,표 3 p.4
+nationality_registration,대만,2020~2024년,134,개,표 3 p.4
+nationality_registration,대만,평균 영업기간,104.3,개월,표 3 p.4
+nationality_registration,우즈베키스탄,1994~1999년,0,개,표 3 p.4
+nationality_registration,우즈베키스탄,2000~2009년,1,개,표 3 p.4
+nationality_registration,우즈베키스탄,2010~2019년,40,개,표 3 p.4
+nationality_registration,우즈베키스탄,2020~2024년,208,개,표 3 p.4
+nationality_registration,우즈베키스탄,평균 영업기간,35.5,개월,표 3 p.4
+nationality_registration,미국,1994~1999년,2,개,표 3 p.4
+nationality_registration,미국,2000~2009년,22,개,표 3 p.4
+nationality_registration,미국,2010~2019년,211,개,표 3 p.4
+nationality_registration,미국,2020~2024년,402,개,표 3 p.4
+nationality_registration,미국,평균 영업기간,63.5,개월,표 3 p.4
+nationality_registration,캐나다,1994~1999년,1,개,표 3 p.4
+nationality_registration,캐나다,2000~2009년,18,개,표 3 p.4
+nationality_registration,캐나다,2010~2019년,150,개,표 3 p.4
+nationality_registration,캐나다,2020~2024년,218,개,표 3 p.4
+nationality_registration,캐나다,평균 영업기간,68.9,개월,표 3 p.4
+nationality_registration,기타,1994~1999년,2,개,표 3 p.4
+nationality_registration,기타,2000~2009년,17,개,표 3 p.4
+nationality_registration,기타,2010~2019년,312,개,표 3 p.4
+nationality_registration,기타,2020~2024년,922,개,표 3 p.4
+nationality_registration,기타,평균 영업기간,47.5,개월,표 3 p.4
+nationality_registration,합계,평균 영업기간,48.1,개월,표 3 p.4
+industry,요식/유흥,가맹점 수,6343,개,표 4 p.5
+industry,미용,가맹점 수,1145,개,표 4 p.5
+industry,음/식료품,가맹점 수,613,개,표 4 p.5
+industry,교육/학원,가맹점 수,407,개,표 4 p.5
+industry,의료,가맹점 수,374,개,표 4 p.5
+industry,유통,가맹점 수,303,개,표 4 p.5
+industry,스포츠/문화/레저,가맹점 수,280,개,표 4 p.5
+industry,가정생활/서비스,가맹점 수,216,개,표 4 p.5
+industry,의류/잡화,가맹점 수,210,개,표 4 p.5
+industry,여행/교통,가맹점 수,81,개,표 4 p.5
+industry,가전/가구,가맹점 수,71,개,표 4 p.5
+industry,자동차/주유,가맹점 수,61,개,표 4 p.5
+industry,기타,가맹점 수,219,개,표 4 p.5
+region_industry,서울,요식/유흥,1740,개,표 5 p.7
+region_industry,서울,미용,271,개,표 5 p.7
+region_industry,서울,음/식료품,138,개,표 5 p.7
+region_industry,서울,교육/학원,103,개,표 5 p.7
+region_industry,서울,의료,113,개,표 5 p.7
+region_industry,서울,유통,60,개,표 5 p.7
+region_industry,서울,그 외,345,개,표 5 p.7
+region_industry,인천,요식/유흥,521,개,표 5 p.7
+region_industry,인천,미용,110,개,표 5 p.7
+region_industry,인천,음/식료품,70,개,표 5 p.7
+region_industry,인천,교육/학원,30,개,표 5 p.7
+region_industry,인천,의료,44,개,표 5 p.7
+region_industry,인천,유통,27,개,표 5 p.7
+region_industry,인천,그 외,97,개,표 5 p.7
+region_industry,경기,요식/유흥,2307,개,표 5 p.7
+region_industry,경기,미용,454,개,표 5 p.7
+region_industry,경기,음/식료품,240,개,표 5 p.7
+region_industry,경기,교육/학원,140,개,표 5 p.7
+region_industry,경기,의료,86,개,표 5 p.7
+region_industry,경기,유통,121,개,표 5 p.7
+region_industry,경기,그 외,439,개,표 5 p.7
+region_industry,부산,요식/유흥,156,개,표 5 p.7
+region_industry,부산,미용,26,개,표 5 p.7
+region_industry,부산,음/식료품,5,개,표 5 p.7
+region_industry,부산,교육/학원,13,개,표 5 p.7
+region_industry,부산,의료,21,개,표 5 p.7
+region_industry,부산,유통,5,개,표 5 p.7
+region_industry,부산,그 외,36,개,표 5 p.7
+region_industry,대구,요식/유흥,82,개,표 5 p.7
+region_industry,대구,미용,8,개,표 5 p.7
+region_industry,대구,음/식료품,7,개,표 5 p.7
+region_industry,대구,교육/학원,5,개,표 5 p.7
+region_industry,대구,의료,12,개,표 5 p.7
+region_industry,대구,유통,1,개,표 5 p.7
+region_industry,대구,그 외,11,개,표 5 p.7
+region_industry,대전,요식/유흥,77,개,표 5 p.7
+region_industry,대전,미용,18,개,표 5 p.7
+region_industry,대전,음/식료품,8,개,표 5 p.7
+region_industry,대전,교육/학원,22,개,표 5 p.7
+region_industry,대전,의료,9,개,표 5 p.7
+region_industry,대전,유통,3,개,표 5 p.7
+region_industry,대전,그 외,17,개,표 5 p.7
+region_industry,광주,요식/유흥,67,개,표 5 p.7
+region_industry,광주,미용,9,개,표 5 p.7
+region_industry,광주,음/식료품,4,개,표 5 p.7
+region_industry,광주,교육/학원,6,개,표 5 p.7
+region_industry,광주,의료,2,개,표 5 p.7
+region_industry,광주,유통,2,개,표 5 p.7
+region_industry,광주,그 외,10,개,표 5 p.7
+region_industry,울산,요식/유흥,129,개,표 5 p.7
+region_industry,울산,미용,22,개,표 5 p.7
+region_industry,울산,음/식료품,6,개,표 5 p.7
+region_industry,울산,교육/학원,6,개,표 5 p.7
+region_industry,울산,의료,3,개,표 5 p.7
+region_industry,울산,유통,3,개,표 5 p.7
+region_industry,울산,그 외,8,개,표 5 p.7
+region_industry,세종,요식/유흥,24,개,표 5 p.7
+region_industry,세종,미용,6,개,표 5 p.7
+region_industry,세종,음/식료품,0,개,표 5 p.7
+region_industry,세종,교육/학원,6,개,표 5 p.7
+region_industry,세종,의료,1,개,표 5 p.7
+region_industry,세종,유통,2,개,표 5 p.7
+region_industry,세종,그 외,6,개,표 5 p.7
+region_industry,강원,요식/유흥,132,개,표 5 p.7
+region_industry,강원,미용,22,개,표 5 p.7
+region_industry,강원,음/식료품,7,개,표 5 p.7
+region_industry,강원,교육/학원,10,개,표 5 p.7
+region_industry,강원,의료,17,개,표 5 p.7
+region_industry,강원,유통,8,개,표 5 p.7
+region_industry,강원,그 외,15,개,표 5 p.7
+region_industry,충북,요식/유흥,224,개,표 5 p.7
+region_industry,충북,미용,35,개,표 5 p.7
+region_industry,충북,음/식료품,29,개,표 5 p.7
+region_industry,충북,교육/학원,10,개,표 5 p.7
+region_industry,충북,의료,16,개,표 5 p.7
+region_industry,충북,유통,11,개,표 5 p.7
+region_industry,충북,그 외,26,개,표 5 p.7
+region_industry,충남,요식/유흥,309,개,표 5 p.7
+region_industry,충남,미용,60,개,표 5 p.7
+region_industry,충남,음/식료품,37,개,표 5 p.7
+region_industry,충남,교육/학원,12,개,표 5 p.7
+region_industry,충남,의료,10,개,표 5 p.7
+region_industry,충남,유통,20,개,표 5 p.7
+region_industry,충남,그 외,51,개,표 5 p.7
+region_industry,경북,요식/유흥,139,개,표 5 p.7
+region_industry,경북,미용,14,개,표 5 p.7
+region_industry,경북,음/식료품,15,개,표 5 p.7
+region_industry,경북,교육/학원,8,개,표 5 p.7
+region_industry,경북,의료,9,개,표 5 p.7
+region_industry,경북,유통,7,개,표 5 p.7
+region_industry,경북,그 외,15,개,표 5 p.7
+region_industry,경남,요식/유흥,200,개,표 5 p.7
+region_industry,경남,미용,37,개,표 5 p.7
+region_industry,경남,음/식료품,20,개,표 5 p.7
+region_industry,경남,교육/학원,13,개,표 5 p.7
+region_industry,경남,의료,12,개,표 5 p.7
+region_industry,경남,유통,17,개,표 5 p.7
+region_industry,경남,그 외,26,개,표 5 p.7
+region_industry,전북,요식/유흥,75,개,표 5 p.7
+region_industry,전북,미용,13,개,표 5 p.7
+region_industry,전북,음/식료품,10,개,표 5 p.7
+region_industry,전북,교육/학원,8,개,표 5 p.7
+region_industry,전북,의료,8,개,표 5 p.7
+region_industry,전북,유통,4,개,표 5 p.7
+region_industry,전북,그 외,13,개,표 5 p.7
+region_industry,전남,요식/유흥,73,개,표 5 p.7
+region_industry,전남,미용,29,개,표 5 p.7
+region_industry,전남,음/식료품,9,개,표 5 p.7
+region_industry,전남,교육/학원,5,개,표 5 p.7
+region_industry,전남,의료,6,개,표 5 p.7
+region_industry,전남,유통,5,개,표 5 p.7
+region_industry,전남,그 외,6,개,표 5 p.7
+region_industry,제주,요식/유흥,88,개,표 5 p.7
+region_industry,제주,미용,11,개,표 5 p.7
+region_industry,제주,음/식료품,8,개,표 5 p.7
+region_industry,제주,교육/학원,10,개,표 5 p.7
+region_industry,제주,의료,5,개,표 5 p.7
+region_industry,제주,유통,7,개,표 5 p.7
+region_industry,제주,그 외,17,개,표 5 p.7
+revenue_industry,3억 원 이하,요식/유흥,4413,개,표 6 p.10
+revenue_industry,3억 원 이하,미용,1121,개,표 6 p.10
+revenue_industry,3억 원 이하,음/식료품,475,개,표 6 p.10
+revenue_industry,3억 원 이하,교육/학원,324,개,표 6 p.10
+revenue_industry,3억 원 이하,의료,110,개,표 6 p.10
+revenue_industry,3억 원 이하,유통,178,개,표 6 p.10
+revenue_industry,3억 원 이하,그 외,1010,개,표 6 p.10
+revenue_industry,3억~5억 원,요식/유흥,943,개,표 6 p.10
+revenue_industry,3억~5억 원,미용,18,개,표 6 p.10
+revenue_industry,3억~5억 원,음/식료품,63,개,표 6 p.10
+revenue_industry,3억~5억 원,교육/학원,39,개,표 6 p.10
+revenue_industry,3억~5억 원,의료,62,개,표 6 p.10
+revenue_industry,3억~5억 원,유통,43,개,표 6 p.10
+revenue_industry,3억~5억 원,그 외,54,개,표 6 p.10
+revenue_industry,5억~10억 원,요식/유흥,755,개,표 6 p.10
+revenue_industry,5억~10억 원,미용,3,개,표 6 p.10
+revenue_industry,5억~10억 원,음/식료품,42,개,표 6 p.10
+revenue_industry,5억~10억 원,교육/학원,26,개,표 6 p.10
+revenue_industry,5억~10억 원,의료,99,개,표 6 p.10
+revenue_industry,5억~10억 원,유통,67,개,표 6 p.10
+revenue_industry,5억~10억 원,그 외,46,개,표 6 p.10
+revenue_industry,10억~30억 원,요식/유흥,230,개,표 6 p.10
+revenue_industry,10억~30억 원,미용,3,개,표 6 p.10
+revenue_industry,10억~30억 원,음/식료품,32,개,표 6 p.10
+revenue_industry,10억~30억 원,교육/학원,16,개,표 6 p.10
+revenue_industry,10억~30억 원,의료,97,개,표 6 p.10
+revenue_industry,10억~30억 원,유통,15,개,표 6 p.10
+revenue_industry,10억~30억 원,그 외,26,개,표 6 p.10
+revenue_industry,30억 원 초과,요식/유흥,2,개,표 6 p.10
+revenue_industry,30억 원 초과,미용,0,개,표 6 p.10
+revenue_industry,30억 원 초과,음/식료품,1,개,표 6 p.10
+revenue_industry,30억 원 초과,교육/학원,2,개,표 6 p.10
+revenue_industry,30억 원 초과,의료,6,개,표 6 p.10
+revenue_industry,30억 원 초과,유통,0,개,표 6 p.10
+revenue_industry,30억 원 초과,그 외,2,개,표 6 p.10
+top_region,경기 안산시,전체 가맹점,450,개,표 7 p.11
+top_region,경기 수원시,전체 가맹점,395,개,표 7 p.11
+top_region,서울 영등포구,전체 가맹점,358,개,표 7 p.11
+top_region,경기 시흥시,전체 가맹점,354,개,표 7 p.11
+top_region,경기 부천시,전체 가맹점,353,개,표 7 p.11
+top_region,경기 화성시,전체 가맹점,305,개,표 7 p.11
+top_region,경기 평택시,전체 가맹점,286,개,표 7 p.11
+top_region,서울 구로구,전체 가맹점,273,개,표 7 p.11
+top_region,인천 부평구,전체 가맹점,216,개,표 7 p.11
+top_region,경기 성남시,전체 가맹점,203,개,표 7 p.11
+top_region,경기 안산시,3억 원 이하,373,개,표 7 p.11
+top_region,경기 부천시,3억 원 이하,291,개,표 7 p.11
+top_region,서울 영등포구,3억 원 이하,285,개,표 7 p.11
+top_region,경기 수원시,3억 원 이하,283,개,표 7 p.11
+top_region,경기 시흥시,3억 원 이하,272,개,표 7 p.11
+top_region,경기 화성시,3억 원 이하,228,개,표 7 p.11
+top_region,경기 평택시,3억 원 이하,226,개,표 7 p.11
+top_region,서울 구로구,3억 원 이하,210,개,표 7 p.11
+top_region,인천 부평구,3억 원 이하,167,개,표 7 p.11
+top_region,충북 청주시,3억 원 이하,138,개,표 7 p.11
+correlation_ln,전체 외국인주민,가맹점 수와의 상관계수,0.8511,r,그림 3 p.8
+correlation_ln,한국국적을 가지지 않은 자,가맹점 수와의 상관계수,0.8292,r,그림 3 p.8
+correlation_ln,한국국적을 취득한 자,가맹점 수와의 상관계수,0.8841,r,그림 3 p.8
+correlation_ln,외국인주민 자녀(출생),가맹점 수와의 상관계수,0.817,r,그림 3 p.8
+correlation_ln,외국인근로자,가맹점 수와의 상관계수,0.565,r,그림 4 p.9
+correlation_ln,결혼이민자,가맹점 수와의 상관계수,0.9201,r,그림 4 p.9
+correlation_ln,유학생,가맹점 수와의 상관계수,0.7066,r,그림 4 p.9
+correlation_ln,외국국적동포,가맹점 수와의 상관계수,0.9217,r,그림 4 p.9

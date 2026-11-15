@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.part
+.pytest_cache/
+# 재배포 금지 문구가 있는 원문
+data/raw/mrtc/*.pdf
+# 로컬 전용
+.claude/
+.vscode/
+# figures/와 같은 내용의 공유용 묶음
+팀공유/

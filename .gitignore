@@ -5,7 +5,8 @@ __pycache__/
 # 재배포 금지 문구가 있는 원문
 data/raw/mrtc/*.pdf
 # 로컬 전용
-.claude/
+.claude/*
+!.claude/skills/
 .vscode/
 # figures/와 같은 내용의 공유용 묶음
 팀공유/
